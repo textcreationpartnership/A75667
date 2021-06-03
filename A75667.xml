@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of impeachment of transcendent crimes, injuries, misdemeanours, oppressions, and high breach of trust, committed by Col. Philip Jones: exhibited by Mr. Bledry Morgan; and read in Parliament, the 18th of May, 1659. Together with Col. Phillip Jones's answer thereunto.</title>
+            <author>Jones, Philip, 1618?-1674.</author>
+         </titleStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75667</idno><idno type="EEBO-CITATION">99859101</idno>
+  <idno type="VID">111167</idno>
+  <idno type="EEBO-PROQUEST">2264191112</idno>
+  
+            <idno type="STC">Wing A3860</idno>
+            <idno type="STC">Thomason E983_31</idno>
+            <idno type="STC">ESTC R11677</idno>
+            <idno type="PROQUEST">99859101</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859101e"/>
+            <note>(EEBO-TCP ; phase 2, no. A75667)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111167)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E983[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of impeachment of transcendent crimes, injuries, misdemeanours, oppressions, and high breach of trust, committed by Col. Philip Jones: exhibited by Mr. Bledry Morgan; and read in Parliament, the 18th of May, 1659. Together with Col. Phillip Jones's answer thereunto.</title>
+                  <author>Jones, Philip, 1618?-1674.</author>
+                  <author>Morgan, Bledry.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed MDCLIX. [1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 26"; "May 26.".</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts) and the Henry E. Huntington Library and Art Gallery (Early English books).</note>
+                  <note>Appears on UMI microfilm "Thomason Tracts" reel 146 (British Library copy) and on film "Early English books, 1641-1700" reel 805 (Henry E. Huntington Library and Art Gallery copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jones, Philip, 1618?-1674 --  Early works to 1800.</term>
+               <term type="topical_term">Impeachments --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111167:1"/>
+            <p>Articles of Impeachment OF Transcendent <hi>Crimes, Injuries, Mis<g ref="char:EOLhyphen"/>demeanours, Oppressions,</hi> and high <hi>Breach</hi> of <hi>TRUST,</hi> COMMITTED BY Col. Philip Jones: EXHIBITED By Mr. <hi>Bledry Morgan;</hi> AND READ IN PARLIAMENT, <hi>The</hi> 18<seg rend="sup">th</seg>
+               <hi>of</hi> May, 1659.</p>
+            <p>Together with Col. <hi>Philip Jones</hi>'s Answer thereunto.</p>
+            <p>
+               <hi>LONDON:</hi> Printed MDCLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="2" facs="tcp:111167:2"/>
+            <head>TO The Supream Authority of the NATION, <hi>The</hi> Parliament <hi>of the Common<g ref="char:EOLhyphen"/>wealth of</hi> England. The Humble Petition of <hi>Bledry Morgan,</hi> Gent.</head>
+            <p>Humbly Sheweth,</p>
+            <p>THat your Petitioner out of the great sense of the suf<g ref="char:EOLhyphen"/>fering of himself, and many of the Inhabitants of <hi>South-Wales</hi> by the Greatness and Potency of Col. <hi>Phi<g ref="char:EOLhyphen"/>lip Jones,</hi> and the <hi>Oppressions</hi> used and practised by the said <hi>Colonel,</hi> and his <hi>adherents</hi> in those Parts, do Cry for <hi>Publique Justice,</hi> being so <hi>hainous</hi> and <hi>grievous,</hi> that your Petitioner and others <hi>oppressed,</hi> have no way to be relieved herein, but by Your Honours <hi>Justice.</hi>
+            </p>
+            <p>Wherefore your Petitioner in the behalf of himself and others <hi>oppressed,</hi> humbly presents the <hi>An<g ref="char:EOLhyphen"/>nexed</hi> to this Honourable Parliament; And humbly prayeth, That such effectuall proceeding may be had thereupon, whereby the <hi>Grievances</hi> complained of may be <hi>redressed,</hi> your Petitioner and the rest <hi>relieved,</hi> and the <hi>Offender Ex<g ref="char:EOLhyphen"/>emplarily punished,</hi> as to yoar Grave Wisdoms shall seem meet.</p>
+         </div>
+         <div type="list_of_crimes">
+            <pb n="3" facs="tcp:111167:2"/>
+            <head>Articles of Transcendent Crimes, Injuries, Misdemeanours, Op<g ref="char:EOLhyphen"/>pressions, and High Breach of Trust, committed by Col. <hi>Philip Jones;</hi> Exhibited by Mr. <hi>Ble<g ref="char:EOLhyphen"/>dry Morgan,</hi> and read in <hi>Par<g ref="char:EOLhyphen"/>liament</hi> the <hi>18,</hi> of <hi>May, 1659.</hi>
+            </head>
+            <p n="1">I. THat the said Col. <hi>Philip Jones,</hi> for about Ten Years last past, appeared the <hi>chief</hi> &amp; <hi>only man</hi> to recommend and bring in persons to all places of <hi>Authority, Prosit,</hi> or <hi>Trust, Ecclesiasti<g ref="char:EOLhyphen"/>cal, Military,</hi> or <hi>Civil,</hi> in <hi>South-Wales;</hi> being <hi>a Privie Councellour</hi> to the late <hi>Protector,</hi> for about five years last past, and had the chief <hi>Governance</hi> and <hi>Superinten<g ref="char:EOLhyphen"/>dency</hi> of all publique affairs in <hi>South-Wales,</hi> under the said <hi>Protector;</hi> who, contrary to the several <hi>Ordinances</hi> and <hi>Acts</hi> of this <hi>Parliament,</hi> for making of <hi>Delinquents uncapable to bear Offices,</hi> recommended, nominated, and brought into <hi>Authority</hi> there, divers notorious <hi>Cava<g ref="char:EOLhyphen"/>liers</hi> in Arms, <hi>Compounded Delinquents,</hi> and other <hi>dis<g ref="char:EOLhyphen"/>affected
+<pb n="4" facs="tcp:111167:3"/>persons;</hi> A List of divers of whose Names is hereunto annexed.</p>
+            <p n="2">II. That the said Col. <hi>Philip Jones</hi> caused to <hi>be put out of Authority,</hi> and <hi>discountenanced</hi> divers <hi>honest, godly, well<g ref="char:EOLhyphen"/>effected persons</hi> to the <hi>Publique Cause</hi> and <hi>Interest</hi> of the <hi>Nation,</hi> upon private Accompts, and for some <hi>Sinister<g ref="char:EOLhyphen"/>ends;</hi> particularly, Captain <hi>Richard Castles, Edward Rumsey</hi> Esq; <hi>Thomas Morgan</hi> Esq; and divers others; and also discountenanced and suppressed divers Com<g ref="char:EOLhyphen"/>plaints against <hi>Malignants, Irish Papist, Scandalous,</hi> and <hi>Blasphemous Persons</hi> in Authority; particularly, on the Complaint of Capt. <hi>Richard Castles.</hi>
+            </p>
+            <p n="3">III. That the said Col. <hi>Philip Jones</hi> procured an Order from the late <hi>Protector,</hi> to stay prosecution against <hi>Henry Vaughan</hi> Esq; called Sir <hi>Henry Vaughan,</hi> at <hi>Wor<g ref="char:EOLhyphen"/>cester</hi> house, and afterwards procured him a <hi>Pardon</hi> from the late <hi>Protector;</hi> he the said <hi>Henry Vaughan</hi> being excepted from <hi>Pardon</hi> by several <hi>Acts</hi> of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> and one of the <hi>Grand Delinquents of Southwales.</hi> The <hi>Malignants</hi> and <hi>Delinquents</hi> being sensible of his Friendship declared a Resolution to protect his Per<g ref="char:EOLhyphen"/>son and Estate, if <hi>Charles Stuart</hi> and his party should prevail. And the said Sir <hi>Henry Vaughan</hi> did allow 60 li. <hi>per annum,</hi> our of the <hi>Sequestred Tythes</hi> of <hi>Pembrey,</hi> to <hi>Jane,</hi> Wife of <hi>William John, David Griffith,</hi> &amp; Sister to the said Col. <hi>Jones,</hi> and a horse worth 20 <hi>li.</hi> upon
+<pb n="5" facs="tcp:111167:3"/>the said Col. <hi>Philip Jones,</hi> in lieu of his Courtesies aforesaid.</p>
+            <p n="4">IV. That the said <hi>Philip Jones</hi> did by himself, and his Officers and Souldiers, force divers <hi>well affected persons</hi> to pay several Sums of Money towards the 25000 <hi>li.</hi> Mulct, imposed on <hi>South-wales,</hi> by the Act of the 22. of <hi>February,</hi> 1648. contrary to the Tenour of the said <hi>Act;</hi> particularly, <hi>Edward Rumsey</hi> Esquire, Captain <hi>Seis,</hi> and divers others; and spared one <hi>Walter Lloid,</hi> a person excepted in the said <hi>Act;</hi> Declaring, that another <hi>Walter Lloid</hi> was thereby meant; which he did, in consideration of the said <hi>Walter Lloid</hi>'s assist<g ref="char:EOLhyphen"/>ance, in getting into his custody the <hi>Deeds, Evidences,</hi> and <hi>Writings,</hi> of <hi>Rees Lloid:</hi> The possession of whose Lands, the said Col. <hi>Philip Jones</hi> indirectly gained for his Mother in Law <hi>Elizabeth Price,</hi> and ever since de<g ref="char:EOLhyphen"/>tained by the practice a foresaid the possession therof, being of the value of 80 <hi>li. per annum.</hi>
+            </p>
+            <p n="5">V. That the said <hi>Philip Jones,</hi> by himself, his <hi>Officers and Souldiers,</hi> and others by him Commissionated, did, during most of the time aforesaid, in an <hi>Arbitrary</hi> and <hi>Illegal</hi> manner, <hi>levie and force</hi> the payment of se<g ref="char:EOLhyphen"/>veral <hi>Sums of Money,</hi> and took <hi>Free Quarter</hi> from the Inhabitants of <hi>Southwales,</hi> and County of <hi>Monmouth.</hi>
+            </p>
+            <p n="6">
+               <pb n="6" facs="tcp:111167:4"/> VI. That the said Col. <hi>Philip Jones,</hi> by himself, and his Officers and Souldiers, did in like <hi>arbitrary and illegal manner,</hi> assault and wrong fully imprison, divers of the <hi>Inhabitants</hi> well-affected of those parts, and kept them in his Garrison of <hi>Cardiff,</hi> and elsewhere, <hi>with<g ref="char:EOLhyphen"/>out any Charge or Legal Trial or proceedings against them,</hi> until some of them were discharged by Order of his <hi>Superiours,</hi> and others discharged at <hi>his own will and pleasure;</hi> particularly, <hi>Richard Jones, Thomas Lloyd, Morgan Lloyd, Morgan Jenkins, William Williams, Tho<g ref="char:EOLhyphen"/>mas Williams, Thomas Bowen, Thomas Lewis, Owen Price,</hi> and others.</p>
+            <p n="7">VII. That the said Col. <hi>Philip Jones,</hi> by his Officers and Souldiers, and by his direction and appointment, did by <hi>Menacies, Fraud,</hi> and <hi>Force, wrongfully</hi> and <hi>unwarran<g ref="char:EOLhyphen"/>tably</hi> take away the <hi>Possessions, Deeds, Evidencies,</hi> and <hi>Estates, Real</hi> and <hi>Personal,</hi> of divers of the Inhabitants of <hi>Southwales,</hi> and kept and disposed the same at his own <hi>Arbitrary will and pleasure,</hi> whereby many <hi>Fami<g ref="char:EOLhyphen"/>lies</hi> are <hi>ruined</hi> by his <hi>Oppression;</hi> and also bought seve<g ref="char:EOLhyphen"/>ral <hi>Broken Titles (pendente Lite)</hi> thereby to <hi>discounte<g ref="char:EOLhyphen"/>nance</hi> and <hi>oppress</hi> the true and Legal Owners by his <hi>potency;</hi> as particularly, in the Cases of <hi>Rees Lloyd, Eli<g ref="char:EOLhyphen"/>zabeth Griffith, Christopher Baker,</hi> Doctor <hi>Nicholas Chap<g ref="char:EOLhyphen"/>pel, John Harris,</hi> Mrs. <hi>Lougher, Owen David, William Lloyd</hi> of <hi>Parland, John Walter, George Dowle, Philip By<g ref="char:EOLhyphen"/>non, Edward Maunsel, Elizabeth Maunsel, Rob. Vaughan,
+<pb n="7" facs="tcp:111167:4"/>Thomas Lloyd, Hugh Hughes, George Lucas, David Mor<g ref="char:EOLhyphen"/>gan, Mathew William, Lewis Morgan,</hi> and <hi>Margaret</hi> his Wife, and others.</p>
+            <p n="8">VIII. That the said Col. <hi>Philip Jones</hi> hath written <hi>Letters</hi> to <hi>Magistrates,</hi> to pervert <hi>Justice,</hi> and sided and counte<g ref="char:EOLhyphen"/>nanced <hi>Causes</hi> depending in <hi>Courts of Justice,</hi> as well <hi>Criminal</hi> as <hi>Civil;</hi> particularly, in the Cases of <hi>David Morgan, Thomas Roberts, Lewes Morgan, Morgan Vaugh<g ref="char:EOLhyphen"/>an, Lewelyn Rogers, George Dowle, Thomas Lloyd, Natha<g ref="char:EOLhyphen"/>niel Hancock, John Gunter,</hi> and others, which he pra<g ref="char:EOLhyphen"/>ctised since he became a <hi>Privie Councellour</hi> to the late <hi>Protector.</hi>
+            </p>
+            <p n="9">IX. That the said Col. <hi>Philip Jones</hi> hath countenanced and protected, and procured to be unduly and illegal<g ref="char:EOLhyphen"/>ly enlarged, divers <hi>Murtherers</hi> and <hi>Perjurers;</hi> particu<g ref="char:EOLhyphen"/>larly concerning the murthering of <hi>Roger Price</hi> of the County of <hi>Brecon, Edward Gamadge</hi> of the County of <hi>Glamorgan, Thomas Games,</hi> convicted of <hi>perjury,</hi> and others.</p>
+            <p n="10">X. That the said Col. <hi>Philip Jones,</hi> by himself, his Of<g ref="char:EOLhyphen"/>ficers and Souldiers, did threaten several <hi>Counsellours, Attorneyes,</hi> and <hi>Sollicitors,</hi> for dealing in particular Causes, <hi>Civil</hi> and <hi>Criminal;</hi> particularly <hi>Edward Free<g ref="char:EOLhyphen"/>man</hi> Esq; <hi>Thomas Arden</hi> Esq; <hi>Robert Stratford</hi> Gent, <hi>John Gunter</hi> Gent. and others, tending to the obstructing of the due <hi>Course of Justice.</hi>
+            </p>
+            <p n="11">
+               <pb n="8" facs="tcp:111167:5"/> XI. That the said Col. <hi>Philip Jones</hi> hath unduly and for <hi>sinister ends,</hi> procured several <hi>Pardons</hi> from the late <hi>Protector,</hi> for several <hi>Felonies;</hi> particularly, in the Case of <hi>William Morgan,</hi> and others; And likewise procu<g ref="char:EOLhyphen"/>red a <hi>pardon</hi> from the said <hi>Protector,</hi> for several <hi>Fines</hi> imposed on <hi>Meredith Lewes</hi> Esq; and drawn down in Charge to the great <hi>Roll</hi> of the <hi>Pipe</hi> in the <hi>Exchequer,</hi> amounting to 200 <hi>li.</hi> for <hi>Contemning the same Court,</hi> to the <hi>lessening and diminishing</hi> of the <hi>publique Casual Revenue,</hi> to the <hi>obstruction of justice,</hi> and <hi>encouragement</hi> of like <hi>Offendors.</hi>
+            </p>
+            <p n="12">XII. That the said Col. <hi>Philip Jones</hi> proeured to be <hi>En<g ref="char:EOLhyphen"/>larged</hi> several persons <hi>Imprisoned</hi> for <hi>defrauding the publique Revenues,</hi> particularly <hi>Thomas Games;</hi> who as <hi>Treasurer</hi> defrauded the <hi>County</hi> of <hi>Brecon</hi> of 588 l. odd money; <hi>John Lewes,</hi> who being <hi>Treasurer</hi> for the County of <hi>Carmarthen,</hi> defrauded the same County of 800 l. with which sums of Moneys the said re<g ref="char:EOLhyphen"/>spective Counties were <hi>doubly Charged,</hi> and <hi>forced</hi> to pay the same: The said <hi>John Lewes</hi> and <hi>Thomas Games</hi> averring, That the said Col. <hi>Philip Jones</hi> had recei<g ref="char:EOLhyphen"/>ved most of the said moneys.</p>
+            <p n="13">XIII. That the said Col. <hi>Philip Jones</hi> as <hi>Privy Councellour</hi> and otherwise, did <hi>falsifie</hi> and <hi>violate</hi> the <hi>Trust</hi> in him reposed, more particularly,</p>
+            <p>That the said Col. <hi>Philip Jones</hi> being the chief per<g ref="char:EOLhyphen"/>son
+<pb n="9" facs="tcp:111167:5"/>Intrusted by this Parliament in the <hi>Act of the</hi> 23. <hi>of February,</hi> 1649, with the Receiving of the <hi>Eccle<g ref="char:EOLhyphen"/>siasticall Revenue in South-Wales</hi> and County of <hi>Mon<g ref="char:EOLhyphen"/>mouth,</hi> Sequestred, or Sequestrable, estimated to be 20000 l. <hi>per annum,</hi> received for 9. years last past, did use all possible means to <hi>Obstruct</hi> a due <hi>Accompt</hi> thereof, and <hi>Imprisoned, Displaced,</hi> and <hi>Discountenanced</hi> divers <hi>well-affected persons,</hi> who petitioned for, and desired an <hi>Account</hi> of the Revenue might be made. And at last being a <hi>Privy-Councellour,</hi> intending for ever to <hi>smother</hi> those Accompts, <hi>procured</hi> an <hi>Ordinance</hi> of the late Protector, and his <hi>Councel,</hi> of the 29th of <hi>Au<g ref="char:EOLhyphen"/>gust,</hi> 1654. to <hi>Commissioners</hi> of his own <hi>Nomination;</hi> five whereof in a <hi>Clandestine manner</hi> take the Account of seven <hi>Counties</hi> at <hi>Swanzey</hi> and <hi>Neath</hi> in one day, on the <hi>Credits</hi> of the <hi>Accomptants,</hi> and gave them dis<g ref="char:EOLhyphen"/>charges; which Ordinance was in the next Assem<g ref="char:EOLhyphen"/>bly <hi>Confirmed,</hi> at the Instance of the said <hi>Colonel</hi> and other <hi>Accomptants.</hi>
+            </p>
+            <p>That the said Col. <hi>Philip Jones</hi> having for severall years Acted as one of the <hi>Committees of Glamorgan,</hi> and as one of the <hi>Committees</hi> of the <hi>Association</hi> of <hi>South-Wales</hi> and <hi>Gloucester,</hi> and himself, his <hi>Friends</hi> and <hi>Relations</hi> lyable to a just <hi>Accompt</hi> for the <hi>Sequestred Estates</hi> there; And finding <hi>Roger Havard,</hi> Esq; <hi>John Gunter,</hi> and <hi>William Thomas, Sub-Commissioners of Sequestration</hi> in the County of <hi>Brecon,</hi> to be diligent in the examin<g ref="char:EOLhyphen"/>ing of the <hi>Arrears</hi> of that <hi>Revenue unaccompted for,</hi> he did procure them to be <hi>Removed,</hi> Notwithstanding they had <hi>doubly Advanced that Revenue there, obstructed</hi> the issuing forth the <hi>Commissions</hi> to other <hi>well-affected and faithfull persons</hi> in other <hi>Counties;</hi> and instead thereof, <hi>Recommended</hi> others of his <hi>Friends</hi> and <hi>Rela<g ref="char:EOLhyphen"/>tions</hi> to be <hi>Commissioners;</hi> and amongst them, such as
+<pb n="10" facs="tcp:111167:6"/>
+               <hi>bore Arms</hi> for the late <hi>King</hi> against the <hi>Parliament:</hi> By which means, a <hi>due Accompt</hi> of that <hi>Revenue</hi> is not to this day <hi>rendred.</hi>
+            </p>
+            <p>And also the said Col. <hi>Philip Jones</hi> hath been <hi>un<g ref="char:EOLhyphen"/>faithfull</hi> in the <hi>Trust</hi> reposed in him as one of the <hi>Sur<g ref="char:EOLhyphen"/>veyors</hi> of <hi>the Poor Knights of Windsor,</hi> particularly in the <hi>Lease</hi> of the <hi>Tythes of Abergivilly,</hi> worth 300 l. <hi>per annum</hi> granted to <hi>John Price</hi> the said Colonel <hi>Jones</hi>'s Brother in Law, for 150 l. being 100 l. lesse then the <hi>Parishioners</hi> by Mr. <hi>David Morgans</hi> offered for the same.</p>
+            <p n="14">XIV. That the said Col. <hi>Philip Jones</hi> by himself, his <hi>Of<g ref="char:EOLhyphen"/>ficers,</hi> and <hi>Souldiers,</hi> seised upon one <hi>Ship</hi> in the year 1649, cast upon the Coast of <hi>Glamorganshire,</hi> being richly laden with <hi>Plate, Jewels,</hi> and <hi>other rich Commo<g ref="char:EOLhyphen"/>dities</hi> valued at 20000. at loast, and <hi>converted</hi> the same to his <hi>Own Use,</hi> and no due <hi>Accompt</hi> thereof given to the <hi>Common wealth;</hi> and also disposed of the <hi>Lead</hi> that covered the <hi>Cathedrall</hi> of <hi>St. Davids,</hi> valued at 300 l. to his Own Use. All which tendeth to the great <hi>defrauding</hi> of the <hi>Common-wealth,</hi> and against the great <hi>Trust</hi> reposed in the said <hi>Col. Jones.</hi>
+            </p>
+            <p n="15">XV. That the said Colonel <hi>Philip Jones,</hi> contrary to the <hi>Trust</hi> reposed in him, hath <hi>corruptly</hi> received and ta<g ref="char:EOLhyphen"/>ken divers <hi>rewards, bribes,</hi> and <hi>gratuities;</hi> particular<g ref="char:EOLhyphen"/>ly of the <hi>Portugal Merchants,</hi> and of divers others se<g ref="char:EOLhyphen"/>veral other great sums.</p>
+            <p n="16">XVI. That the said Col. <hi>Philip Jones</hi> having procured to be commissionated divers <hi>Malignants, Delinquents,</hi> &amp; other disaffected persons in <hi>South-Wales,</hi> as <hi>Sheriffs, Justi<g ref="char:EOLhyphen"/>ces,
+<pb n="11" facs="tcp:111167:6"/>Commissioners</hi> of the Monthly-Assessments, <hi>&amp;c.</hi> who in respect of their guilt and incapacity, are ready to o<g ref="char:EOLhyphen"/>bey the arbitrary will and pleasure of the said <hi>Colonel.</hi> That the said <hi>Colonel</hi> hath, by his Letters and private Instructions, monopolized &amp; ingrossed to himself the sole nomination and recommendation of Members to serve in the several Assemblies held for six years last past, and deprived the Inhabitants of their just Rights and Freedoms of <hi>Elections:</hi> which <hi>Malignants,</hi> with the assistance of the <hi>Souldiers</hi> there under the command of the said <hi>Colonel,</hi> have committed divers assaults and insolencies against the free <hi>Electors,</hi> to the great di<g ref="char:EOLhyphen"/>sturbance of the publique peace.</p>
+            <p n="17">XVII. That the said Col. <hi>Philip Jones</hi> having procured se<g ref="char:EOLhyphen"/>veral <hi>Military Commands</hi> under the <hi>Parliament,</hi> refu<g ref="char:EOLhyphen"/>sed, neglected, and waved all personal <hi>Advantages</hi> to <hi>resist</hi> or <hi>destroy</hi> the <hi>Enemy,</hi> and upon all occasions De<g ref="char:EOLhyphen"/>ported himself <hi>very Cowardly,</hi> particularly at <hi>Cardiff, Ely Bridge,</hi> St. <hi>Fagons,</hi> and on the Late <hi>Invasion</hi> of <hi>Charls Stuart,</hi> contrary to the <hi>Honour</hi> and <hi>Duty</hi> of a <hi>Souldier,</hi> and the great <hi>trust</hi> in him reposed; and con<g ref="char:EOLhyphen"/>trary to good <hi>Conscience,</hi> to Receive pay for those <hi>Ser<g ref="char:EOLhyphen"/>vices</hi> that his <hi>Courage</hi> or <hi>Fidelity</hi> durst never Attempt. Though few or none of those that <hi>spent</hi> their <hi>blood</hi> and <hi>time</hi> in <hi>asserting</hi> the <hi>publique Cause</hi> of the <hi>Nation,</hi> can shew the like <hi>Improvement</hi> of <hi>Estate,</hi> having in or about 10 years time, brought 8 l. <hi>per annum,</hi> to about 5000 l. <hi>per annum.</hi> He the said <hi>Philip Jones</hi> having no <hi>Trade</hi> to Increase his <hi>fortune,</hi> nor any <hi>visible lawfull honest means</hi> to accomplish the same, saving the 1000 l. <hi>per annum Stipend</hi> as a <hi>Privy Councellour;</hi> which he did yearly expend with an over-plus in the support of himself and his <hi>Family,</hi> who lived at <hi>Excessive high Rates.</hi>
+            </p>
+            <p n="18">
+               <pb n="12" facs="tcp:111167:7"/> XVIII. That the said Col. <hi>Philip Jones</hi> had for about 10 years last past by himself and his <hi>Agents,</hi> the Custody of the <hi>Original Seals</hi> of <hi>Glamorgan, Brecon,</hi> and <hi>Radnor,</hi> and receiving of the <hi>Prie-Fines</hi> and <hi>Post-Fines,</hi> being worth 300 l. a year; and granted by the late King to the Earl of <hi>Carbery,</hi> a <hi>Delinquent;</hi> who by reason of his <hi>Delinquency,</hi> had forfeited the same, and <hi>uncapable to bear Offices.</hi> But the said <hi>Colonel,</hi> to <hi>defeat</hi> and <hi>defraud</hi> the <hi>State</hi> of the same, <hi>Combined</hi> and <hi>Concluded</hi> with the said <hi>Earl</hi> of <hi>Carbery,</hi> for the <hi>Interest</hi> of the said <hi>Earl</hi> to the said 3. Counties: And the other 3. Counties of <hi>Pembroke, Carmarthen,</hi> and <hi>Cardigan,</hi> granted in the same Grant to the said <hi>Earl,</hi> The said <hi>Earl,</hi> by the <hi>Protection</hi> of the said <hi>Colonel</hi> by his Farmers &amp; Agents, enjoyes the same quietly; upon which <hi>Pattent,</hi> the Rent of about 140 l. <hi>per annum</hi> is reserved; And no<g ref="char:EOLhyphen"/>thing Answered this 10 years and upwards to the <hi>State;</hi> which amounts to 1400 l. received by the said <hi>Colonel</hi> and his <hi>Agents:</hi> besides, he being a <hi>Committee</hi>-man, to <hi>Conceal</hi> the <hi>Right</hi> and <hi>Interest</hi> of the <hi>Common<g ref="char:EOLhyphen"/>wealth</hi> for <hi>Self-Advantage,</hi> was against the <hi>Instructions</hi> and <hi>Ordinances</hi> of <hi>Parliament,</hi> and Contrary to the <hi>Duty</hi> of his <hi>Place.</hi>
+            </p>
+            <p n="19">XIX. That the said Col. <hi>Philip Jones,</hi> by himself, his <hi>Offi<g ref="char:EOLhyphen"/>cers</hi> and <hi>Souldiers,</hi> and others brought into <hi>Authority</hi> by his <hi>procurement,</hi> have <hi>disarmed</hi> the <hi>Countrey,</hi> and amongst them, many <hi>faithfull well-affected persons,</hi> and kept and still detained their <hi>Arms, Horses,</hi> and <hi>Moneys</hi> Contri<g ref="char:EOLhyphen"/>buted towards the <hi>Militia</hi> there; which they have not restored, but disposed thereof to their own private and Respective Uses.</p>
+            <p n="20">
+               <pb n="13" facs="tcp:111167:7"/> XX. That the said Col. <hi>Philip Jones</hi> endeavoured to <hi>Sub<g ref="char:EOLhyphen"/>born</hi> several persons to testifie several <hi>false accusations</hi> against Col. <hi>Edward Freeman,</hi> and by several <hi>Agents</hi> and persons in <hi>Command</hi> under him, did break open several Houses and Chambers, to search for Letters written by Col. <hi>Freeman</hi> to particular persons on pri<g ref="char:EOLhyphen"/>vate occasions. And the said Col. <hi>Jones</hi> did threaten to <hi>banish</hi> Mr. <hi>John Gunter</hi> to <hi>Jamaica,</hi> for <hi>Solliciting lawfull Suits,</hi> and <hi>Discoveries</hi> of <hi>publique Frauds</hi> against the said Col. <hi>Jones,</hi> his <hi>Friends</hi> and <hi>Relations.</hi> And the better to <hi>terrifie</hi> and <hi>deterr</hi> him therein, the said Col. <hi>Jones</hi> did <hi>falsly accuse</hi> the said <hi>John Gunter with High Treason,</hi> but never brought him to <hi>Tryall.</hi> And afterwards to <hi>justifie and clear</hi> this <hi>false Accusation,</hi> and to <hi>endanger</hi> the <hi>life</hi> and <hi>Estate</hi> of the said <hi>John Gunter,</hi> one <hi>Thomas Games,</hi> a person <hi>Convicted of perjury,</hi> and an <hi>Instrument</hi> of the said <hi>Colonel,</hi> did not onely <hi>Commit Perjury,</hi> but <hi>suborned Rees ap Evan</hi> to commit <hi>perjury</hi> against the said <hi>John Gunter,</hi> before <hi>Major General Dawkins,</hi> and other <hi>Commissioners</hi> for <hi>Decimation,</hi> and endeavoured to <hi>Suborn</hi> one <hi>William Vaughan</hi> to joyn with them in this <hi>Confederacy</hi> and <hi>Conspiracy;</hi> whereof one of them was <hi>Indicted,</hi> the <hi>perjury discovered,</hi> and the <hi>Innocency</hi> of the said <hi>John Gunter cleared before the said Commissioners.</hi>
+            </p>
+            <closer>
+               <signed>Bledry Morgan.</signed>
+            </closer>
+         </div>
+         <div type="list_of_delinquents">
+            <pb n="14" facs="tcp:111167:8"/>
+            <head>The Names of the Delinquents implyed in the <hi>Charge</hi> foregoing, for the County of <hi>Carmarthen.</hi>
+            </head>
+            <p>
+               <hi>RIchard</hi> Earl of <hi>Carbury,</hi> who being intrusted by the Parliament as Lord Lievtenant of the Militia, became General of the Forces there raised for the King against the Parliament; and now one of the Common-Council in the County Borough of <hi>Carmarthen.</hi> And</p>
+            <p>
+               <hi>Henry Vaughan</hi> Esq; otherwise called Sir <hi>Henry Vaughan,</hi> a Member of this Parliament, who deserted his Trust, sate at the <hi>Junto</hi> at <hi>Oxford,</hi> was taken in the field fighting against the Parliament; one of the Common-Councel of the said County-Borough; Both persons of great Estates living in that County; and who never Compounded for their Delinquency to this day; and who by their Kindred and Servants Commissionated as under<g ref="char:EOLhyphen"/>written, do rule that Countrey as absolutely as ever they did under the late King; who have expressed that by way of return to Colonel <hi>Philip Jones,</hi> and Colonel <hi>Dawkins,</hi> for their many Favours done them, they will (if ever <hi>Charls Stuart</hi>'s party prevail) protect them and their Estates.</p>
+            <p>
+               <hi>Bennet Hoskins,</hi> Esq; one of the Justices of the great Sessions for that County, and a Member of this present Parliament, who was a Commis<g ref="char:EOLhyphen"/>sioner of a Array, and violently acted for the late King against the Parlia<g ref="char:EOLhyphen"/>ment, and for his Delinquency was suspended from this Parliament; and being conscious of his own guilt, hath withdrawn himself from the late Assembly.</p>
+            <p>
+               <hi>Edmund Jones,</hi> Esq; lately expelled from this House, Attorney-General of <hi>South-Wales,</hi> Recorder of the Towns of <hi>Carmarthen, Brecon,</hi> and <hi>Rad<g ref="char:EOLhyphen"/>nor,</hi> Justice of the Peace for the said Towns and Counties, and Commissio<g ref="char:EOLhyphen"/>ner of the Assessments; yet was heretofore a Commissioner of Array in actual Arms for the King against the Parliament, and chief Agent for the Popish party and Garrison at <hi>Ragland,</hi> and a Compounder of Record at Goldsmiths-Hall.</p>
+            <p>
+               <hi>John Vaughan</hi> of <hi>Llanelty</hi> Esq; High-Sheriff of the County, and Com<g ref="char:EOLhyphen"/>missioner of the Assessments; a Compounded Delinquent, in Arms in the First and Second War against the Parliament.</p>
+            <p>
+               <hi>John Lloyd,</hi> Under-Sheriff, and Deputy-Clerk of the Peace under the said Colonel <hi>Philip Jones</hi> his brother, and <hi>Deputy Chamberlain and Chan<g ref="char:EOLhyphen"/>cellor,</hi> and <hi>Keeper</hi> of the <hi>Original Seal;</hi> Yet a Compounded Delinquent, in Arms the First and Second War against the Parliament.</p>
+            <p>
+               <hi>John Vaughan</hi> of <hi>Deillie</hi> Esq; Sheriff of the Town of <hi>Carmarthen,</hi> Justice of the Peace, and Commissioner of the monethly Assessments; was in Arms the First and Second War against the Parliament.</p>
+            <p>
+               <hi>Henry Middleton</hi> Esquire, Now Justices of the Peace, and Commissio<g ref="char:EOLhyphen"/>ners of the Assessments; heretofore Com<g ref="char:EOLhyphen"/>missioners of Array; and <hi>Henry Middleton,</hi> a Compounded Delinquent.</p>
+            <p>
+               <hi>John Vaughan</hi> of <hi>Place</hi> Now Justices of the Peace, and Commissio<g ref="char:EOLhyphen"/>ners of the Assessments; heretofore Com<g ref="char:EOLhyphen"/>missioners of Array; and <hi>Henry Middleton,</hi> a Compounded Delinquent.</p>
+            <p>
+               <hi>Gwyn</hi> Esq; Now Justices of the Peace, and Commissio<g ref="char:EOLhyphen"/>ners of the Assessments; heretofore Com<g ref="char:EOLhyphen"/>missioners of Array; and <hi>Henry Middleton,</hi> a Compounded Delinquent.</p>
+            <p>
+               <hi>John Lewis</hi> Esq; Now Justices of the Peace, and Commissio<g ref="char:EOLhyphen"/>ners of the Assessments; heretofore Com<g ref="char:EOLhyphen"/>missioners of Array; and <hi>Henry Middleton,</hi> a Compounded Delinquent.</p>
+            <pb n="15" facs="tcp:111167:8"/>
+            <p>
+               <hi>David Edwards</hi> Esq; Justices of the Peace, and Commissioners of the Assessments; in actuall Arms in the First and Second War against the Parliament.</p>
+            <p>
+               <hi>Morgan Jones</hi> Esq; Justices of the Peace, and Commissioners of the Assessments; in actuall Arms in the First and Second War against the Parliament.</p>
+            <p>
+               <hi>William Lloyd</hi> Esq; Commissioners of the Assessments, in actuall Arms in the First and Second Warr against the Parliament.</p>
+            <p>
+               <hi>Richard Prothero</hi> Esq; Commissioners of the Assessments, in actuall Arms in the First and Second Warr against the Parliament.</p>
+            <p>
+               <hi>Jenkin Dawkins,</hi> Esq; Commissioners of the Assessments, in actuall Arms in the First and Second Warr against the Parliament.</p>
+            <p>
+               <hi>Charles Gwyn</hi> Esq; Now a Justice of Peace, and Commissioner of the Monethly Affesments; heretofore Sequestred for his Delinquency, and active for the late King and his Party.</p>
+            <p>
+               <hi>Thomas Lloyd</hi> of <hi>Dan-yr-allt,</hi> a Delinquent in Arms in the first and se<g ref="char:EOLhyphen"/>cond War; yet lately High-Sheriff of that County.</p>
+            <div type="part">
+               <head>Glamorgan-shire.</head>
+               <p>
+                  <hi>Thomas Hughes,</hi> formerly a Commissioner of Array, and active for the late King, now Pro<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>honotory of the great Sessions for <hi>Glamorgan, Brecon,</hi> and <hi>Radnor.</hi>
+               </p>
+               <p>
+                  <hi>Charles Hughs,</hi> Formerly a Major, in Arms for the late King, now Clerk of Assise, or Secondary in the said Great Sessions.</p>
+               <p>
+                  <hi>John Gibb</hi> Esq; a person Popishly affected, an Enemy to the Godly Par<g ref="char:EOLhyphen"/>ty, formerly a Commissioner of Array, and aided the King, now a Justice of Peace there.</p>
+               <p>
+                  <hi>David Evans</hi> Esq; A dis-affected person, a vitious man, that ayded the late King and his party, and an Enemy to the godly; now a Justice of Peace.</p>
+               <p>
+                  <hi>Robert Williams,</hi> in Arms for the late King, and assisted his party, and an Enemy to the godly party.</p>
+            </div>
+            <div type="part">
+               <head>The particular Names of the Malignant Officers, implyed in the precedent Articles for the County of <hi>Cardigan.</hi>
+               </head>
+               <p>FIrst, <hi>Bennet Hoskins,</hi> one of the now Judges itinerant for this County, was an active Commissioner of Array, and of Association for the late King a<g ref="char:EOLhyphen"/>gainst the Parliament; and upon the Vore of this Parliament, that Malig<g ref="char:EOLhyphen"/>nants should withdraw from Sitting in this Parliament, he did withdraw ac<g ref="char:EOLhyphen"/>cordingly.</p>
+               <p n="2">2 <hi>Edmund Jones,</hi> Attorney-General for the Common-wealth, and a Ju<g ref="char:EOLhyphen"/>stice of Peace for that County heretofore a Commissioner of Array, a Com<g ref="char:EOLhyphen"/>pounder at Goldsmiths Hall for Delinquency, and turned out of the last As<g ref="char:EOLhyphen"/>sembly, from being a Member of this, or future Parliaments, for his Delin<g ref="char:EOLhyphen"/>quency.</p>
+               <p n="3">3 <hi>Thomas Evans,</hi> late High-Sheriff for the said County, and Justice of the
+<pb n="16" facs="tcp:111167:9"/>Peace, personally engaged in Arms for the King, in the first and second War against the Parliament.</p>
+               <p n="4">4 <hi>Erasmus Lloyd,</hi> a Justice of the Peace, and a Commissioner of the Monethly Assessement, was an Officer in Arms in the second Warre for the King against the Parliament.</p>
+               <p n="5">5 <hi>Henry Vaughan,</hi> late High Sheriff, and now a Justice of the Peace, here<g ref="char:EOLhyphen"/>tofore a Commissioner of Array; a High Sheriff for the King against the Parliament, by vertue of the Great Seal of <hi>Oxford.</hi>
+               </p>
+               <p n="6">6 <hi>Richard Herbert,</hi> now a Justice of the Peace, heretofore a Lieut, Col. for the King against the Parliament, under the Lord of <hi>Cherbury.</hi>
+               </p>
+               <p n="7">7 <hi>Thomas Parry,</hi> Late Sheriff, now a Justice of the Peace, and heretofore an Adherer and Assister of the Kings Forces against the Parliament.</p>
+               <p n="8">8 <hi>John Lloyd,</hi> Late Sheriff, and Justice of the Peace, and Assister of the King with Horses, Men, and Money.</p>
+               <p n="9">9 <hi>Thomas Lloyd,</hi> Late Sheriff, and heretofore a Sheriff for two years for the King against the Parliament, by vertue of the Great Seal of <hi>Oxford.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="deposition">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>May the</hi> 23. 1658.</date>
+               </dateline>
+            </opener>
+            <p>Col. <hi>Philip Jones</hi> a Member of this House, according to former Order, standing up in this place, made Answer to the Petition of <hi>Bledry Morgan,</hi> Gent. and to the Articles to the said Petition annexed, denyed the Par<g ref="char:EOLhyphen"/>ticulars, and cleered himself; And desired, That this House would be pleased to put the Business into a speedy Way of Examination.</p>
+            <p>
+               <hi>Ordered,</hi> That this Petition of <hi>Bledry Morgan,</hi> and the Articles thereunto annexed, be referred to a Committee to Examine Witnesses upon Oath, on the matter of Fact, and state the same, and Report it to this House.</p>
+            <list>
+               <head>The Names of the Committee.</head>
+               <item>Sir <hi>Henry Vane,</hi>
+               </item>
+               <item>Mr. <hi>Cawlew.</hi>
+               </item>
+               <item>Mr. <hi>Robinson,</hi>
+               </item>
+               <item>Col. <hi>Sidney,</hi>
+               </item>
+               <item>Col. <hi>Pine,</hi>
+               </item>
+               <item>Col. <hi>White,</hi>
+               </item>
+               <item>Col. <hi>Waite,</hi>
+               </item>
+               <item>Mr. <hi>Wild,</hi>
+               </item>
+               <item>Mr. <hi>Say,</hi>
+               </item>
+               <item>Mr. <hi>Corbet,</hi>
+               </item>
+               <item>Baron <hi>Nicholas</hi>
+               </item>
+               <item>Mr. <hi>Crompton,</hi>
+               </item>
+               <item>Mr. <hi>Challenor,</hi>
+               </item>
+               <item>Col. <hi>Bennet,</hi>
+               </item>
+               <item>Mr. <hi>Andrews,</hi>
+               </item>
+               <item>Mr. <hi>Reynolds,</hi>
+               </item>
+               <item>Mr. <hi>Lechmore,</hi>
+               </item>
+               <item>Mr. <hi>Hay,</hi>
+               </item>
+               <item>Col. <hi>Merlyn,</hi>
+               </item>
+               <item>Col. <hi>Morley,</hi>
+               </item>
+               <item>Mr. <hi>Lister,</hi>
+               </item>
+               <item>Mr. <hi>Smith,</hi>
+               </item>
+               <item>Mr. <hi>Fagg,</hi>
+               </item>
+               <item>Col. <hi>Temple,</hi>
+               </item>
+               <item>Mr. <hi>Palmer,</hi>
+               </item>
+               <item>Sir <hi>Hen: Mildmay,</hi>
+               </item>
+               <item>Col. <hi>Rich,</hi>
+               </item>
+               <item>Mr. <hi>Holland,</hi>
+               </item>
+               <item>Lo. Ch. Baron <hi>Wild,</hi>
+               </item>
+               <item>Mr. <hi>Scott,</hi>
+               </item>
+               <item>Col. <hi>Wauton.</hi>
+               </item>
+            </list>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
